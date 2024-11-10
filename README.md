@@ -8,8 +8,8 @@ Sockets Links.
 3. Send message to the client and receive the message from the client using the Socket module in
  server .
 4. Send and receive the message using the send function in socket.
-5. ## NAME:KISHAN SHREE B
-6. ## REG NO:212223100022
+ ## NAME:KISHAN SHREE B
+ ## REG NO:212223100022
 ## PROGRAM
 ~~~
 ## CLIENT 
